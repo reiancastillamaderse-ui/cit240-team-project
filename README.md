@@ -3,10 +3,15 @@
 A simple project for practicing Git and GitHub.
 
 ## Team
-- Owner: Reian Maderse
+- Owner: Justine Tenazas
+
+- Member: Reian Maderse
+          Angela Pagtanan
+          Clarence Lanaria
+          JC France Catalogo
 
 ## How to view the page 
 Open index.html in a browser.
 
 ## Project status
-Status: Planning
+Status: Designing
