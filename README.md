@@ -3,7 +3,12 @@
 A simple project for practicing Git and GitHub collaboration as a group of five.
 
 ## Team
-- Owner: Reian Maderse
+- Owner: Justine Tenazas
+
+- Member: Reian Maderse
+          Angela Pagtanan
+          Clarence Lanaria
+          JC France Catalogo
 
 (See `team.md` for the full list of members and assigned tasks.)
 
@@ -39,4 +44,4 @@ You can also run `start index.html` from Git Bash inside the project folder.
 | `README.md` | Project overview, Windows setup, and file list |
 
 ## Project status
-Status: Planning
+Status: Designing
